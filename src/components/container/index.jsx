@@ -1,7 +1,7 @@
 import Reaction from "./icon/Reaction";
 import Verbal from "./icon/Verbal";
 import Visual from "./icon/Visual";
-import Memory from "./icon/memory";
+import Memory from "./icon/Memory";
 
 function Card() {
   return (
